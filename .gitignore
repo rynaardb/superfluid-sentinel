@@ -17,3 +17,10 @@ datadir/
 snapshots/
 
 .npmrc
+
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
